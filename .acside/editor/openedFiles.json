@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/CodeKey/app/src/main/kotlin/com/code/key/KeyboardUi.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 17062,
+          "line": 267
+        },
+        "start": {
+          "column": 0,
+          "index": 17062,
+          "line": 267
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/CodeKey/app/src/main/kotlin/com/code/key/KeyboardUi.kt"
+}
